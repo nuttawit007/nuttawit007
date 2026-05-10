@@ -9,4 +9,4 @@ Software Development
 Aspiring Full-stack with a passion for building scalable solutions and exploring emerging technologies.
 
 * 🌍  I'm based in Bangkok, Thailand
-* 🧠  I'm currently learning Next.js, NestJS, Docker, Jenkins
+* 🧠  I'm currently learning Next.js, AI Agent
