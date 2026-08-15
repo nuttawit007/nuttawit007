@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Development
 --------------------
 
-3rd-year IT Undergraduate at KMITL. 
+4th-year IT Undergraduate at KMITL. 
 
 Aspiring Full-stack with a passion for building scalable solutions and exploring emerging technologies.
 
